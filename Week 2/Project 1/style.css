@@ -16,8 +16,10 @@ a:hover{
     text-decoration: underline;
 }
 
-
 span {
     display:block; margin-bottom: 10px;
     text-transform: uppercase;
+}
+ul{
+    color:greenyellow;
 }
